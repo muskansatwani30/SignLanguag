@@ -31,10 +31,7 @@ click==8.0.3
 
 commonmark==0.9.1
 comtypes==1.1.10
-conda==4.12.0
-conda-build==3.21.6
 
-conda-verify==3.4.2
 
 cycler==0.10.0
 
