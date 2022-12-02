@@ -1,4 +1,4 @@
-﻿absl-py==1.0.0
+absl-py==1.0.0
 
 altair==4.2.0
 
@@ -31,7 +31,6 @@ click==8.0.3
 
 commonmark==0.9.1
 comtypes==1.1.10
-
 
 cycler==0.10.0
 
@@ -82,6 +81,7 @@ mpmath==1.2.1
 
 munkres==1.1.4
 mypy-extensions==0.4.3
+navigator-updater==0.2.1
 
 nltk==3.6.5
 
@@ -111,7 +111,7 @@ pyasn1-modules==0.2.8
 pycosat==0.6.3
 
 pycurl==7.44.1
-
+pydeck==0.7.1
 
 pyls-spyder==0.4.0
 Pympler==1.0.1
