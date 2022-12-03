@@ -150,8 +150,7 @@ statsmodels==0.12.2
 streamlit==1.10.0
 
 tables==3.6.1
-TBB==0.2
-t
+
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
